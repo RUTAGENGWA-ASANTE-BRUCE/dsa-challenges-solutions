@@ -1,5 +1,5 @@
 #include <iostream>
-
+#inlcude <math.h>
 using namespace std;
 
 // function to generate and retrun random numbers.
