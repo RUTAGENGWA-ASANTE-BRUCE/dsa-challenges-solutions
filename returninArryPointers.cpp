@@ -33,3 +33,5 @@ cout << *(p + i) << endl;
 
 return 0;
 }
+
+
